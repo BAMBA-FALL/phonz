@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/BAMBA-FALL/backend_phonz.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/BAMBA-FALL/frontend_phonz.git
